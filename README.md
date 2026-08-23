@@ -4,6 +4,34 @@ An end-to-end e-commerce analytics project using the **Brazilian E-Commerce Publ
 
 ---
 
+## Data Source
+
+This project uses the Brazilian E-Commerce Public Dataset by Olist.
+
+Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+The dataset was provided by Olist and contains approximately 100,000
+orders from 2016 to 2018.
+
+The dataset includes information related to:
+- Customers
+- Orders
+- Order Items
+- Payments
+- Reviews
+- Products
+- Sellers
+- Geolocation
+- Product Category Translation
+
+The raw dataset is not included in this GitHub repository.
+Please download it directly from the original Kaggle source above.
+
+Dataset License: CC BY-NC-SA 4.0
+
+---
+
 ## Project Overview
 
 The project transforms raw e-commerce data into structured business analysis through:
