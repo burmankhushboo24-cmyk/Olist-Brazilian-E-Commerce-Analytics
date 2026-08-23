@@ -4,6 +4,22 @@ An end-to-end e-commerce analytics project using the **Brazilian E-Commerce Publ
 
 ---
 
+## Project Overview
+
+The project transforms raw e-commerce data into structured business analysis through:
+
+- Database creation and relational data modeling
+- Data import and validation
+- Business-rule checks
+- KPI analysis
+- Business question analysis
+- Advanced SQL analysis
+- Reusable SQL reporting objects
+- Interactive Power BI reporting
+- Power BI Service publishing and executive dashboard development
+
+---
+
 ## Data Source
 
 This project uses the Brazilian E-Commerce Public Dataset by Olist.
@@ -29,40 +45,6 @@ The raw dataset is not included in this GitHub repository.
 Please download it directly from the original Kaggle source above.
 
 Dataset License: CC BY-NC-SA 4.0
-
----
-
-## Project Overview
-
-The project transforms raw e-commerce data into structured business analysis through:
-
-- Database creation and relational data modeling
-- Data import and validation
-- Business-rule checks
-- KPI analysis
-- Business question analysis
-- Advanced SQL analysis
-- Reusable SQL reporting objects
-- Interactive Power BI reporting
-- Power BI Service publishing and executive dashboard development
-
----
-
-## Dataset
-
-The Olist dataset contains multiple related tables:
-
-- `customers`
-- `orders`
-- `order_items`
-- `order_payments`
-- `order_reviews`
-- `products`
-- `sellers`
-- `geolocation`
-- `product_category_name_translation`
-
-The tables were analyzed using their relevant primary and foreign key relationships.
 
 ---
 
